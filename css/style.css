@@ -1,6 +1,6 @@
 body {
-	background-color: aqua;
 	height: 100vh;
+	background-color: yellow;
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -11,12 +11,13 @@ body {
 	align-items: center;
 }
 
-h1 {
-	font-size: 70px;
-	font-family: fantasy;
-}
-
 .title {
 	padding: 30px;
 	border: 5px solid #000;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	font-family: cursive, sans-serif;
 }
